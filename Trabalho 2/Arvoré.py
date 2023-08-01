@@ -166,9 +166,6 @@ while True:
     
     
     
-    ## Nota: 4,17
-    
-    
     
     
     
